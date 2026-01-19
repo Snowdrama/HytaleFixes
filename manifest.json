@@ -1,0 +1,20 @@
+{
+  "Group": "Snowdrama",
+  "Name": "Snowdrama_HytaleFixes",
+  "Version": "0.0.1",
+  "Description": "A mod that fixes some silly Hytale bug stuff.",
+  "Authors": [
+    {
+      "Name": "snowdrama",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
